@@ -8,7 +8,7 @@ const TiltText = forwardRef((props, ref) => {
         I'm <span className='text-black'>Front-End</span>
       </h1>
       <h1 className='text-[4vw] sm:text-2xl md:text-3xl lg:text-4xl uppercase font-semibold'>
-        <span className='text-green-200 font-extrabold'>Web</span> Developer
+        <span className='text-black font-extrabold'>Web</span> Developer
       </h1>
       <h1 className='text-[3.5vw] sm:text-xl md:text-2xl lg:text-3xl uppercase font-medium'>
         with <span className='text-black font-extrabold'>AI/ML</span>
