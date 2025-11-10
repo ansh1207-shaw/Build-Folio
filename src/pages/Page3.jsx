@@ -65,7 +65,7 @@ const Page3 = () => {
           <p>
             <span className="font-semibold">
               <a
-                href="https://www.linkedin.com/in/ansh-shaw"
+                href="https://www.linkedin.com/in/ansh-shaw1979"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 underline hover:text-blue-800 transition duration-300"
